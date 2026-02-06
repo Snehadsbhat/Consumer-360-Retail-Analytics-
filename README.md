@@ -1,7 +1,7 @@
 Retail Analytics – Customer 360
 
 This project focuses on building an end-to-end Retail Analytics system that transforms raw transaction data into actionable customer insights. The solution analyzes customer purchasing behavior using RFM (Recency, Frequency, Monetary) analysis, identifies high-value and churn-risk customers, discovers product bundling opportunities, and presents insights through an interactive Power BI dashboard. The entire analytics pipeline is fully automated using Python ETL and Windows Task Scheduler, enabling regular data refresh with zero manual intervention.
-
+-----------------------------------------------------------------------
 🎯Project Objectives
 
 Analyze retail transaction data to understand customer behavior
@@ -17,7 +17,7 @@ Build an interactive Power BI dashboard
 Implement Row Level Security (RLS) for secure data access
 
 Automate the analytics pipeline for continuous insights
-
+-----------------------------------------------------------------------
 🛠 Tech Stack Used
 
 Programming: Python
@@ -31,7 +31,7 @@ Visualization: Power BI
 Automation: Windows Task Scheduler
 
 Libraries: Pandas, NumPy, mlxtend
-
+----------------------------------------------------------------------
 📦 Project Deliverables
 
 Cleaned and structured retail dataset
